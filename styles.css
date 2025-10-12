@@ -1,0 +1,9 @@
+
+:root{--bg:#f5f7fb;--card:#fff;--accent:#0066ff;--text:#0b1220}
+*{box-sizing:border-box}
+body{margin:0;font-family:Inter,system-ui,Segoe UI,Roboto,'Noto Sans',sans-serif;background:var(--bg);color:var(--text)}
+.hero{background:linear-gradient(90deg,#0ea5e9,#6366f1);color:white;padding:28px;text-align:center}
+.hero input, .hero select{padding:10px;border-radius:8px;border:none;margin:6px}
+.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;padding:12px}
+@media(min-width:800px){.grid{grid-template-columns:repeat(4,1fr)}}
+.card{background:var(--card);padding:12px;border-radius:10px;box-shadow:0 8px 24px rgba(12,16,24,0.06);cursor:pointer}

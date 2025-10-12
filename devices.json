@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "brand": "Samsung",
+    "model": "Galaxy S24",
+    "release": "2024-02-01",
+    "display": "6.2\"",
+    "os": "Android 14",
+    "chipset": "Snapdragon 8 Gen 3",
+    "ram": "8GB",
+    "storage": "128GB",
+    "battery": "3900mAh",
+    "camera": "50MP",
+    "price": "$799",
+    "images": {
+      "thumb": "img/s24-thumb.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "brand": "Apple",
+    "model": "iPhone 15",
+    "release": "2023-09-22",
+    "display": "6.1\"",
+    "os": "iOS 17",
+    "chipset": "A17",
+    "ram": "6GB",
+    "storage": "128GB",
+    "battery": "3349mAh",
+    "camera": "48MP",
+    "price": "$799",
+    "images": {
+      "thumb": "img/iphone15-thumb.jpg"
+    }
+  }
+]
