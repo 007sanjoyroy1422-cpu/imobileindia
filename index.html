@@ -1,24 +1,54 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"/>
-<meta name="viewport" content="width=device-width,initial-scale=1"/>
-<title>I'mobileindia — Find Any Mobile</title>
-<meta name="description" content="I'mobileindia — Detailed phone specs, compare, favorites, multilingual." />
-<link rel="stylesheet" href="styles.css">
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>I'mobileindia — All in One Mobile Details</title>
+  <meta name="description" content="I'mobileindia — global phone specs, compare, price by country." />
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<header class="hero">
-  <h1>I'mobileindia</h1>
-  <p>Search and compare phones from around the world</p>
-  <input id="search" placeholder="Search brand or model..." />
-  <select id="brandFilter"><option value="">All Brands</option></select>
+<header class="site-header">
+  <div class="brand"><img src="logo.svg" alt="I'mobileindia" height="48"></div>
+  <div class="controls">
+    <input id="search" placeholder="Search brand or model..." aria-label="Search">
+    <select id="brandFilter"><option value="">All Brands</option></select>
+    <button id="themeToggle" title="Toggle theme">🌙</button>
+    <button id="translateBtn" title="Translate">Translate</button>
+  </div>
 </header>
-<main>
+
+<main class="main">
+  <section class="hero">
+    <h1>Find Any Mobile — I'mobileindia</h1>
+    <p class="sub">Comprehensive global phone specs, compare, and price by country.</p>
+  </section>
+
   <section id="list" class="grid"></section>
-  <div id="paging"></div>
+  <div id="paging" class="paging"></div>
 </main>
-<div id="modal" class="modal" style="display:none"></div>
+
+<div id="detailModal" class="modal" aria-hidden="true">
+  <div class="modal-content">
+    <button id="closeModal" class="close">Close</button>
+    <div id="detailBody"></div>
+  </div>
+</div>
+
+<div id="google_translate_element" style="display:none"></div>
 <script src="app.js"></script>
+<script>
+document.getElementById('translateBtn').addEventListener('click', function(){
+  if (window.googleTranslateLoaded) return;
+  var gt = document.createElement('script');
+  gt.src = 'https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
+  document.body.appendChild(gt);
+  window.googleTranslateElementInit = function(){
+    new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'bn,hi,ar,es,fr,ru,zh-CN,ja'}, 'google_translate_element');
+    document.getElementById('google_translate_element').style.display='block';
+    window.googleTranslateLoaded = true;
+  };
+});
+</script>
 </body>
 </html>
