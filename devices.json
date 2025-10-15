@@ -1,36 +1,13 @@
 [
   {
-    "id": 1,
+    "id": "samsung_galaxy_s24",
     "brand": "Samsung",
     "model": "Galaxy S24",
-    "release": "2024-02-01",
-    "display": "6.2\"",
-    "os": "Android 14",
-    "chipset": "Snapdragon 8 Gen 3",
-    "ram": "8GB",
-    "storage": "128GB",
-    "battery": "3900mAh",
-    "camera": "50MP",
-    "price": "$799",
-    "images": {
-      "thumb": "img/s24-thumb.jpg"
-    }
-  },
-  {
-    "id": 2,
-    "brand": "Apple",
-    "model": "iPhone 15",
-    "release": "2023-09-22",
-    "display": "6.1\"",
-    "os": "iOS 17",
-    "chipset": "A17",
-    "ram": "6GB",
-    "storage": "128GB",
-    "battery": "3349mAh",
-    "camera": "48MP",
-    "price": "$799",
-    "images": {
-      "thumb": "img/iphone15-thumb.jpg"
-    }
+    "release_date": "2024-02-01",
+    "display": {"size":"6.2\""},
+    "memory": {"ram":"8GB"},
+    "price": "799",
+    "price_region": {"US":"$799","BD":"rs99,900"},
+    "images": {"thumb":"https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s24.jpg","gallery":["https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s24-1.jpg"]}
   }
 ]
