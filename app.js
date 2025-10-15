@@ -1,12 +1,15 @@
 async function init(){
   // load devices.json
-  const res = await fetch('devices.json');
+  let res = await fetch('devices.json').catch(()=>null);
+  if(!res){
+    document.getElementById('list').innerHTML = '<p style="padding:12px;color:#666">No data yet. Run GitHub Actions to populate devices.json.</p>';
+    return;
+  }
   const devices = await res.json();
   window.devices = devices;
   populateBrands(devices);
   renderList(devices,1);
   setupEvents();
-  // get user country for price
   try {
     const r = await fetch('https://ipapi.co/json/');
     const info = await r.json();
@@ -17,7 +20,7 @@ async function init(){
 }
 
 function populateBrands(devices){
-  const brands = [...new Set(devices.map(d=>d.brand))].sort();
+  const brands = [...new Set(devices.map(d=>d.brand).filter(Boolean))].sort();
   const sel = document.getElementById('brandFilter');
   brands.forEach(b=>{ const opt=document.createElement('option'); opt.value=b; opt.textContent=b; sel.appendChild(opt); });
 }
@@ -29,7 +32,7 @@ function renderList(devices,page=1){
   const list = document.getElementById('list');
   if(pageItems.length===0){ list.innerHTML='<p style="padding:12px;color:#666">No devices</p>'; return; }
   list.innerHTML = pageItems.map(d=>`<div class="card" data-id="${escapeHtml(d.id)}">
-    <div class="thumb">${(d.brand||'')[0]||'?'}</div>
+    <div class="thumb">${d.images && d.images.thumb ? `<img src="${escapeHtml(d.images.thumb)}" alt="">` : ((d.brand||'')[0]||'?')}</div>
     <div class="meta"><h3>${escapeHtml(d.brand)} ${escapeHtml(d.model)}</h3>
     <p>${escapeHtml((d.display && (d.display.size||d.display)) || '')} · ${escapeHtml(d.memory && (d.memory.ram || ''))} · ${escapeHtml(showPrice(d))}</p>
     <p class="muted">${escapeHtml(d.release_date||'')}</p></div>
@@ -52,9 +55,7 @@ function showDetails(id){
   const body = document.getElementById('detailBody');
   body.innerHTML = `<h2>${escapeHtml(d.brand)} ${escapeHtml(d.model)}</h2>
     <div class="small">Released: ${escapeHtml(d.release_date)}</div>
-    <div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:10px">
-      ${(d.images && d.images.gallery ? d.images.gallery.map((u,i)=>`<div style="width:120px;height:120px;border-radius:8px;background:#eef2ff;display:flex;align-items:center;justify-content:center">${i+1}</div>`).join('') : '<div style="width:120px;height:120px;border-radius:8px;background:#eef2ff;display:flex;align-items:center;justify-content:center">No Image</div>')}
-    </div>
+    <div class="gallery">${(d.images && d.images.gallery && d.images.gallery.length) ? d.images.gallery.slice(0,8).map(u=>`<img src="${escapeHtml(u)}">`).join('') : '<div style="width:120px;height:120px;border-radius:8px;background:#eef2ff;display:flex;align-items:center;justify-content:center">No Images</div>'}</div>
     <table class="specs-table">
       <tr><th>Display</th><td>${escapeHtml((d.display && (d.display.size || d.display))||'')}</td></tr>
       <tr><th>OS</th><td>${escapeHtml(d.platform && d.platform.os || '')}</td></tr>
@@ -86,7 +87,6 @@ function showPrice(d){
     const country = window.userCountry || 'US';
     if(d.price_region && d.price_region[country]) return d.price_region[country];
     if(d.price) return d.price;
-    // fallback: show usd if available
     if(d.currency && d.price) return `${d.currency} ${d.price}`;
     return '—';
   }catch(e){
