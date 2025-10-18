@@ -1,32 +1,32 @@
-name: GSM Scrape & update devices.json
+name: 📅 Daily Phone Data Update
+
 on:
-  schedule:
-    - cron: '0 2 * * *'  # daily 02:00 UTC
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"  # প্রতিদিন রাত ১২টায় রান হবে
 
 jobs:
-  scrape:
+  update-data:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - uses: actions/checkout@v4
-      - name: Setup Python
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
-      - name: Install deps
-        run: python -m pip install requests beautifulsoup4 lxml
-      - name: Run GSM scraper
-        env:
-          MAX_BRANDS: 60
-          MAX_PER_BRAND: 50
-          REQUEST_DELAY: 0.5
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run gsm_scraper.py
         run: python gsm_scraper.py
-      - name: Commit devices.json
+
+      - name: Commit updated phones.json
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add devices.json || true
-          git commit -m "Auto update devices.json (gsmarena) $(date -u +'%Y-%m-%d')" || echo "No changes"
+          git config --global user.name 'github-actions'
+          git config --global user.email 'actions@github.com'
+          git add data/phones.json
+          git commit -m "📱 Auto update phones.json" || echo "No changes"
           git push
