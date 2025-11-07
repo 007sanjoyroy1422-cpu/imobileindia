@@ -601,6 +601,12 @@
   },
   {
     "brand": "Huawei",
+    "model": "Mate 70 Air",
+    "url": "https://www.gsmarena.com/huawei_mate_70_air_5g-14283.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-70-air.jpg"
+  },
+  {
+    "brand": "Huawei",
     "model": "nova 14 Lite",
     "url": "https://www.gsmarena.com/huawei_nova_14_lite_5g-14241.php",
     "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-nova-14-energy-.jpg"
@@ -892,11 +898,5 @@
     "model": "MatePad 11.5 S",
     "url": "https://www.gsmarena.com/huawei_matepad_11_5_s-12993.php",
     "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-matepad-115-s.jpg"
-  },
-  {
-    "brand": "Huawei",
-    "model": "Pura 70 Ultra",
-    "url": "https://www.gsmarena.com/huawei_pura_70_ultra-12940.php",
-    "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-pura70-ultra.jpg"
   }
 ]
