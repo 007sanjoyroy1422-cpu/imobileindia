@@ -27,7 +27,7 @@
     "brand": "Samsung",
     "model": "Galaxy Tab A11+",
     "url": "https://www.gsmarena.com/samsung_galaxy_tab_a11+-14192.php",
-    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-a9-plus.jpg"
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-a11-plus.jpg"
   },
   {
     "brand": "Samsung",
@@ -2098,5 +2098,305 @@
     "model": "10 evo",
     "url": "https://www.gsmarena.com/htc_10_evo-8404.php",
     "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-10-evo.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto G57 Power",
+    "url": "https://www.gsmarena.com/motorola_moto_g57_power_5g-14282.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g57-power-.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto G57",
+    "url": "https://www.gsmarena.com/motorola_moto_g57_5g-14284.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g57.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto G (2026)",
+    "url": "https://www.gsmarena.com/motorola_moto_g_5g_(2026)-14138.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g-2026.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto G Play (2026)",
+    "url": "https://www.gsmarena.com/motorola_moto_g_play_5g_(2026)-14139.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g-play-2026.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto G67 Power",
+    "url": "https://www.gsmarena.com/motorola_moto_g67_power_5g-14266.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g100-cn.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Edge 70",
+    "url": "https://www.gsmarena.com/motorola_edge_70_5g-14216.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-edge-70-5g.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto G100S",
+    "url": "https://www.gsmarena.com/motorola_moto_g100s_5g_(china)-14293.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g100s.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto G100",
+    "url": "https://www.gsmarena.com/motorola_moto_g100_5g_(china)-14228.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g100-cn.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto Pad 60 Neo",
+    "url": "https://www.gsmarena.com/motorola_moto_pad_60_neo_5g-14140.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-pad-60-neo.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Edge 60 Neo",
+    "url": "https://www.gsmarena.com/motorola_edge_60_neo_5g-14124.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-edge-60-neo.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto G06 Power",
+    "url": "https://www.gsmarena.com/motorola_moto_g06_power-14125.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g06-power.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto G06",
+    "url": "https://www.gsmarena.com/motorola_moto_g06-14115.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g06.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "G96",
+    "url": "https://www.gsmarena.com/motorola_g96_5g-13989.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-g96.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto G86 Power",
+    "url": "https://www.gsmarena.com/motorola_moto_g86_power_5g-13918.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g86-power.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto G86",
+    "url": "https://www.gsmarena.com/motorola_moto_g86_5g-13917.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g86.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto G56",
+    "url": "https://www.gsmarena.com/motorola_moto_g56_5g-13841.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g56.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Edge (2025)",
+    "url": "https://www.gsmarena.com/motorola_edge_(2025)-13907.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-edge-2025.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Edge 60 Pro",
+    "url": "https://www.gsmarena.com/motorola_edge_60_pro-13815.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-edge-60-pro.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Edge 60",
+    "url": "https://www.gsmarena.com/motorola_edge_60-13779.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-edge-60.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Razr 60 Ultra",
+    "url": "https://www.gsmarena.com/motorola_razr_60_ultra-13805.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-razr-60-ultra-5g.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Razr Ultra 2025",
+    "url": "https://www.gsmarena.com/motorola_razr_ultra_2025-13823.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-razr-60-ultra-5g.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Razr 60",
+    "url": "https://www.gsmarena.com/motorola_razr_60-13749.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-razr-60.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Razr 2025",
+    "url": "https://www.gsmarena.com/motorola_razr_2025-13824.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-razr-60.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Razr+ 2025",
+    "url": "https://www.gsmarena.com/motorola_razr+_2025-13825.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-razr-plus-2025.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto Watch Fit",
+    "url": "https://www.gsmarena.com/motorola_moto_watch_fit-13817.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-watch-fit.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto Pad 60 Pro",
+    "url": "https://www.gsmarena.com/motorola_moto_pad_60_pro-13802.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-pad-60-pro.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Edge 60 Stylus",
+    "url": "https://www.gsmarena.com/motorola_edge_60_stylus_5g-13785.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g-stylus-5g-2025.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto G Stylus 5G (2025)",
+    "url": "https://www.gsmarena.com/motorola_moto_g_stylus_5g_(2025)-13784.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g-stylus-5g-2025.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Edge 60s",
+    "url": "https://www.gsmarena.com/motorola_edge_60s_5g-13856.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-edge-60-fusion.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Edge 60 Fusion",
+    "url": "https://www.gsmarena.com/motorola_edge_60_fusion-13752.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-edge-60-fusion.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto G Power (2025)",
+    "url": "https://www.gsmarena.com/motorola_moto_g_power_(2025)-13623.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g-power-2025.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto G (2025)",
+    "url": "https://www.gsmarena.com/motorola_moto_g_(2025)-13624.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g-2025.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto G15",
+    "url": "https://www.gsmarena.com/motorola_moto_g15-13507.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/mototola-moto-g15.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto G15 Power",
+    "url": "https://www.gsmarena.com/motorola_moto_g15_power-13572.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/mototola-g15-r.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto G05",
+    "url": "https://www.gsmarena.com/motorola_moto_g05-13573.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/mototola-moto-g05.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto E15",
+    "url": "https://www.gsmarena.com/motorola_moto_e15-13574.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/mototola-moto-e15.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "ThinkPhone 25",
+    "url": "https://www.gsmarena.com/motorola_thinkphone_25-13373.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-thinkphone-2024.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto G75",
+    "url": "https://www.gsmarena.com/motorola_moto_g75-13372.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g75.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto S50",
+    "url": "https://www.gsmarena.com/motorola_moto_s50-13293.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-edge-50-neo.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Edge 50 Neo",
+    "url": "https://www.gsmarena.com/motorola_edge_50_neo-13224.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-edge-50-neo.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto G55",
+    "url": "https://www.gsmarena.com/motorola_moto_g55-13278.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g55-5g.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto G35",
+    "url": "https://www.gsmarena.com/motorola_moto_g35-13288.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g35-5g.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto G45",
+    "url": "https://www.gsmarena.com/motorola_moto_g45-13267.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g45-5g.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Edge 50",
+    "url": "https://www.gsmarena.com/motorola_edge_50-13231.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-edge-50-5g.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Razr+ 2024",
+    "url": "https://www.gsmarena.com/motorola_razr+_2024-13213.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-razr-plus-2024.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Razr 50 Ultra",
+    "url": "https://www.gsmarena.com/motorola_razr_50_ultra-13150.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-razr-50-ultra.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Razr 2024",
+    "url": "https://www.gsmarena.com/motorola_razr_2024-13214.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-razr-50.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Razr 50",
+    "url": "https://www.gsmarena.com/motorola_razr_50-13151.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-razr-50.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto G85",
+    "url": "https://www.gsmarena.com/motorola_moto_g85-13144.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g85.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "S50 Neo",
+    "url": "https://www.gsmarena.com/motorola_s50_neo-13152.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-s50-neo.jpg"
   }
 ]
