@@ -1,6 +1,12 @@
 [
   {
     "brand": "Samsung",
+    "model": "Galaxy Z TriFold",
+    "url": "https://www.gsmarena.com/samsung_galaxy_z_trifold_5g-14292.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-trifold-.jpg"
+  },
+  {
+    "brand": "Samsung",
     "model": "Galaxy M17",
     "url": "https://www.gsmarena.com/samsung_galaxy_m17_5g-14221.php",
     "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a17.jpg"
@@ -292,12 +298,6 @@
     "model": "Galaxy F14 4G",
     "url": "https://www.gsmarena.com/samsung_galaxy_f14_4g-13247.php",
     "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-f14-4g.jpg"
-  },
-  {
-    "brand": "Samsung",
-    "model": "Galaxy Z Fold6",
-    "url": "https://www.gsmarena.com/samsung_galaxy_z_fold6-13147.php",
-    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-fold6.jpg"
   },
   {
     "brand": "Apple",
