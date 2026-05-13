@@ -619,6 +619,12 @@
   },
   {
     "brand": "Huawei",
+    "model": "Watch Buds 2",
+    "url": "https://www.gsmarena.com/huawei_watch_buds_2-14664.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-watch-buds2.jpg"
+  },
+  {
+    "brand": "Huawei",
     "model": "Pura X Max",
     "url": "https://www.gsmarena.com/huawei_pura_x_max_5g-14607.php",
     "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-pura-x-max.jpg"
@@ -892,11 +898,5 @@
     "model": "Watch Fit 4",
     "url": "https://www.gsmarena.com/huawei_watch_fit_4-14113.php",
     "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-watch-fit4.jpg"
-  },
-  {
-    "brand": "Huawei",
-    "model": "MatePad Pro 12.2 (2025)",
-    "url": "https://www.gsmarena.com/huawei_matepad_pro_12_2_(2025)-13870.php",
-    "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-matepad-pro-122-2025.jpg"
   }
 ]
