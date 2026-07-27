@@ -4138,5 +4138,1919 @@
     "model": "C75",
     "url": "https://www.gsmarena.com/realme_c75_5g-13837.php",
     "image": "https://fdn2.gsmarena.com/vv/bigpic/realme-c75-5g.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "N6",
+    "url": "https://www.gsmarena.com/oneplus_n6-14760.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-n6.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Pad 3 Pro",
+    "url": "https://www.gsmarena.com/oneplus_pad_3_pro-14739.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-pad-4-new.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Turbo 6X Pro",
+    "url": "https://www.gsmarena.com/oneplus_turbo_6x_pro_5g-14711.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-turbo-6x-pro.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Turbo 6X",
+    "url": "https://www.gsmarena.com/oneplus_turbo_6x_5g-14712.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-turbo-6x.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Nord CE6",
+    "url": "https://www.gsmarena.com/oneplus_nord_ce6_5g-14611.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-turbo-6v.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Nord CE6 Lite",
+    "url": "https://www.gsmarena.com/oneplus_nord_ce6_lite_5g-14567.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-ce-6-lite.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Ace 6 Ultra",
+    "url": "https://www.gsmarena.com/oneplus_ace_6_ultra_5g-14637.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace-6-ultra.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Pad 4",
+    "url": "https://www.gsmarena.com/oneplus_pad_4-14630.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-pad-4-new.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Watch 4",
+    "url": "https://www.gsmarena.com/oneplus_watch_4-14622.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-watch-4.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Nord 6",
+    "url": "https://www.gsmarena.com/oneplus_nord_6_5g-14558.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-turbo-6.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "15T",
+    "url": "https://www.gsmarena.com/oneplus_15t_5g-14385.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-15t.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Turbo 6",
+    "url": "https://www.gsmarena.com/oneplus_turbo_6_5g-14260.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-turbo-6.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Turbo 6V",
+    "url": "https://www.gsmarena.com/oneplus_turbo_6v_5g-14404.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-turbo-6v.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "15R",
+    "url": "https://www.gsmarena.com/oneplus_15r_5g-14358.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-15r.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Pad Go 2",
+    "url": "https://www.gsmarena.com/oneplus_pad_go_2_5g-14343.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-pad-go2.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Watch Lite",
+    "url": "https://www.gsmarena.com/oneplus_watch_lite-14365.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-watch-3-lite.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Ace 6T",
+    "url": "https://www.gsmarena.com/oneplus_ace_6t_5g-14315.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace-6t.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "15",
+    "url": "https://www.gsmarena.com/oneplus_15_5g-14206.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-15.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Ace 6",
+    "url": "https://www.gsmarena.com/oneplus_ace_6_5g-14259.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace6.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Nord 5",
+    "url": "https://www.gsmarena.com/oneplus_nord_5_5g-13992.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord5.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Nord CE5",
+    "url": "https://www.gsmarena.com/oneplus_nord_ce5_5g-13792.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-ce5.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Watch 3 43mm",
+    "url": "https://www.gsmarena.com/oneplus_watch_3_43mm-13957.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-watch3-43mm.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Pad Lite",
+    "url": "https://www.gsmarena.com/oneplus_pad_lite-13956.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-pad-lite.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Pad 3",
+    "url": "https://www.gsmarena.com/oneplus_pad_3_(global)-13881.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-pad-2-pro.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "13s",
+    "url": "https://www.gsmarena.com/oneplus_13s_5g-13818.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-13s-.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Ace 5 Ultra",
+    "url": "https://www.gsmarena.com/oneplus_ace_5_ultra_5g-13891.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace-5-ultra.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Ace 5 Racing",
+    "url": "https://www.gsmarena.com/oneplus_ace_5_racing_5g-13892.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace-5-racing.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Pad 2 Pro",
+    "url": "https://www.gsmarena.com/oneplus_pad_2_pro-13860.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-pad-2-pro.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "13T",
+    "url": "https://www.gsmarena.com/oneplus_13t_5g-13791.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-13t.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Watch 3",
+    "url": "https://www.gsmarena.com/oneplus_watch_3-13668.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-watch3.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "13R",
+    "url": "https://www.gsmarena.com/oneplus_13r-13548.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-13r.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Ace 5 Pro",
+    "url": "https://www.gsmarena.com/oneplus_ace_5_pro-13591.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace5-pro.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Ace 5",
+    "url": "https://www.gsmarena.com/oneplus_ace_5-13592.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace5.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Pad 3 (China)",
+    "url": "https://www.gsmarena.com/oneplus_pad_3-13593.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-pad3.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "13",
+    "url": "https://www.gsmarena.com/oneplus_13-13477.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-13.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Nord 4",
+    "url": "https://www.gsmarena.com/oneplus_nord_4-13200.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord4.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Pad 2",
+    "url": "https://www.gsmarena.com/oneplus_pad_2-13210.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-pad2.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Watch 2R",
+    "url": "https://www.gsmarena.com/oneplus_watch_2r-13209.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-watch-2r.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Ace 3 Pro",
+    "url": "https://www.gsmarena.com/oneplus_ace_3_pro-13179.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace3-pro.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Pad Pro",
+    "url": "https://www.gsmarena.com/oneplus_pad_pro-13180.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-pad-pro.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Watch 2 (eSIM)",
+    "url": "https://www.gsmarena.com/oneplus_watch_2_(esim)-13181.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-watch2-china.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Nord CE4 Lite",
+    "url": "https://www.gsmarena.com/oneplus_nord_ce4_lite-13166.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-ce4-lite-intl.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Nord CE4 Lite (India)",
+    "url": "https://www.gsmarena.com/oneplus_nord_ce4_lite_(india)-13155.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-ce4-lite-.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Ace 3V",
+    "url": "https://www.gsmarena.com/oneplus_ace_3v-12889.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace-3v.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Nord CE4",
+    "url": "https://www.gsmarena.com/oneplus_nord_ce4-12892.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-ce4-.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Watch 2",
+    "url": "https://www.gsmarena.com/oneplus_watch_2-12843.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-watch-2.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Nord N30 SE",
+    "url": "https://www.gsmarena.com/oneplus_nord_n30_se-12811.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-n30-se-5g.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "12R",
+    "url": "https://www.gsmarena.com/oneplus_12r-12727.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-12r-new.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "12",
+    "url": "https://www.gsmarena.com/oneplus_12-12725.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-12.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Ace 3",
+    "url": "https://www.gsmarena.com/oneplus_ace_3-12775.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace3.jpg"
+  },
+  {
+    "brand": "Nothing",
+    "model": "Phone (4b)",
+    "url": "https://www.gsmarena.com/nothing_phone_(4b)_5g-14781.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-phone-4b.jpg"
+  },
+  {
+    "brand": "Nothing",
+    "model": "Phone (4a) Pro",
+    "url": "https://www.gsmarena.com/nothing_phone_(4a)_pro_5g-14529.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-phone-4a-pro.jpg"
+  },
+  {
+    "brand": "Nothing",
+    "model": "Phone (4a)",
+    "url": "https://www.gsmarena.com/nothing_phone_(4a)_5g-14503.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-phone-4a.jpg"
+  },
+  {
+    "brand": "Nothing",
+    "model": "Phone (3a) Lite",
+    "url": "https://www.gsmarena.com/nothing_phone_(3a)_lite_5g-14267.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-phone-3a-lite-.jpg"
+  },
+  {
+    "brand": "Nothing",
+    "model": "CMF Watch 3 Pro",
+    "url": "https://www.gsmarena.com/nothing_cmf_watch_3_pro-14217.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-cmf-watch-3-pro.jpg"
+  },
+  {
+    "brand": "Nothing",
+    "model": "CMF Watch Pro 2",
+    "url": "https://www.gsmarena.com/nothing_cmf_watch_pro_2-14218.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-cmf-watch-2.jpg"
+  },
+  {
+    "brand": "Nothing",
+    "model": "CMF Watch Pro",
+    "url": "https://www.gsmarena.com/nothing_cmf_watch_pro-14219.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-cmf-watch-pro.jpg"
+  },
+  {
+    "brand": "Nothing",
+    "model": "Phone (3)",
+    "url": "https://www.gsmarena.com/nothing_phone_(3)_5g-13969.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-phone-3-new.jpg"
+  },
+  {
+    "brand": "Nothing",
+    "model": "CMF Phone 2 Pro",
+    "url": "https://www.gsmarena.com/nothing_cmf_phone_2_pro_5g-13821.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-cmf-phone-2-pro.jpg"
+  },
+  {
+    "brand": "Nothing",
+    "model": "Phone (3a) Pro",
+    "url": "https://www.gsmarena.com/nothing_phone_(3a)_pro-13649.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-phone-3a-pro-new.jpg"
+  },
+  {
+    "brand": "Nothing",
+    "model": "Phone (3a)",
+    "url": "https://www.gsmarena.com/nothing_phone_(3a)-13672.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-phone-3a-new.jpg"
+  },
+  {
+    "brand": "Nothing",
+    "model": "Phone (2a) Plus",
+    "url": "https://www.gsmarena.com/nothing_phone_(2a)_plus-13243.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-phone-2a-plus.jpg"
+  },
+  {
+    "brand": "Nothing",
+    "model": "CMF Phone 1",
+    "url": "https://www.gsmarena.com/nothing_cmf_phone_1-13122.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-cmf-phone-1-ofic.jpg"
+  },
+  {
+    "brand": "Nothing",
+    "model": "Phone (2a)",
+    "url": "https://www.gsmarena.com/nothing_phone_(2a)-12760.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-phone-2a.jpg"
+  },
+  {
+    "brand": "Nothing",
+    "model": "Phone (2)",
+    "url": "https://www.gsmarena.com/nothing_phone_(2)-12386.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-phone2_.jpg"
+  },
+  {
+    "brand": "Nothing",
+    "model": "Phone (1)",
+    "url": "https://www.gsmarena.com/nothing_phone_(1)-11636.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-phone-1.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "iQOO Z11 Lite 44W",
+    "url": "https://www.gsmarena.com/vivo_iqoo_z11_lite_5g-14809.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-z11-lite.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "T5 Lite",
+    "url": "https://www.gsmarena.com/vivo_t5_lite_5g-14734.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y60.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "Y500",
+    "url": "https://www.gsmarena.com/vivo_y500-14780.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y500-4g.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "iQOO Z11i",
+    "url": "https://www.gsmarena.com/vivo_iqoo_z11i_5g-14771.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-z11i.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "X Fold6",
+    "url": "https://www.gsmarena.com/vivo_x_fold6_5g-14748.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-x-fold6.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "IQOO Pad5c",
+    "url": "https://www.gsmarena.com/vivo_iqoo_pad5c-14763.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-pad5c.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "V70 Lite",
+    "url": "https://www.gsmarena.com/vivo_v70_lite_5g-14710.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-v70-lite.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "S60",
+    "url": "https://www.gsmarena.com/vivo_s60_5g-14692.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-s60-.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "S60e",
+    "url": "https://www.gsmarena.com/vivo_s60_vitality_5g-14693.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-s60-vitality-.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "T5",
+    "url": "https://www.gsmarena.com/vivo_t5-14697.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-t5.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "Y600 Turbo",
+    "url": "https://www.gsmarena.com/vivo_y600_turbo_5g-14687.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y600-turbo.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "iQOO 15T",
+    "url": "https://www.gsmarena.com/vivo_iqoo_15t_5g-14661.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-15t-.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "iQOO Pad6 Pro",
+    "url": "https://www.gsmarena.com/vivo_iqoo_pad6_pro-14679.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-pad6-pro.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "iQOO Z11",
+    "url": "https://www.gsmarena.com/vivo_iqoo_z11_5g-14654.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-z11-5g.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "Y600 Pro",
+    "url": "https://www.gsmarena.com/vivo_y600_pro_5g_(china)-14634.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y600-pro-.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "Y500s",
+    "url": "https://www.gsmarena.com/vivo_y500s_5g-14631.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y500i.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "Y6",
+    "url": "https://www.gsmarena.com/vivo_y6_5g-14632.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y500i.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "Y6t",
+    "url": "https://www.gsmarena.com/vivo_y6t_5g-14649.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y05.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "Y60",
+    "url": "https://www.gsmarena.com/vivo_y60_5g-14633.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y60.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "X300 FE",
+    "url": "https://www.gsmarena.com/vivo_x300_fe_5g-14491.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-x300-fe-5g-.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "T5 Pro",
+    "url": "https://www.gsmarena.com/vivo_t5_pro_5g-14599.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-t5-pro.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "X300 Ultra",
+    "url": "https://www.gsmarena.com/vivo_x300_ultra_5g-14388.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-x300-ultra.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "X300s",
+    "url": "https://www.gsmarena.com/vivo_x300s_5g-14557.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-x300s.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "Pad6 Pro",
+    "url": "https://www.gsmarena.com/vivo_pad6_pro-14569.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-pad6-pro.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "iQOO Z11 (China)",
+    "url": "https://www.gsmarena.com/vivo_iqoo_z11_5g_(china)-14562.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-z11.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "iQOO Z11x (China)",
+    "url": "https://www.gsmarena.com/vivo_iqoo_z11x_5g_(china)-14563.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-z11x-5g.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "Y21",
+    "url": "https://www.gsmarena.com/vivo_y21_5g-14561.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y05.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "Y11",
+    "url": "https://www.gsmarena.com/vivo_y11_5g-14564.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y05.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "T5x",
+    "url": "https://www.gsmarena.com/vivo_t5x_5g-14536.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-t5x-5g.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "iQOO Z11x",
+    "url": "https://www.gsmarena.com/vivo_iqoo_z11x_5g-14531.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-z11x-5g.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "Y51 Pro",
+    "url": "https://www.gsmarena.com/vivo_y51_pro_5g-14539.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y51-pro.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "V70 FE",
+    "url": "https://www.gsmarena.com/vivo_v70_fe_5g-14504.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-v70-fe.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "X300 FE (Russia)",
+    "url": "https://www.gsmarena.com/vivo_x300_fe_5g_(russia)-14603.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-x300-fe.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "iQOO 15R",
+    "url": "https://www.gsmarena.com/vivo_iqoo_15r_5g-14483.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-15r.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "Y05",
+    "url": "https://www.gsmarena.com/vivo_y05-14510.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y05.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "V70 Elite",
+    "url": "https://www.gsmarena.com/vivo_v70_elite_5g-14446.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-v70-elite.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "V70",
+    "url": "https://www.gsmarena.com/vivo_v70_5g-14505.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-v70.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "iQOO 15 Ultra",
+    "url": "https://www.gsmarena.com/vivo_iqoo_15_ultra_5g-14445.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-15-ultra.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "X200T",
+    "url": "https://www.gsmarena.com/vivo_x200t_5g-14366.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-x200-t.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "iQOO Z11 Turbo",
+    "url": "https://www.gsmarena.com/vivo_iqoo_z11_turbo_5g-14392.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-z11-turbo.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "Y31d",
+    "url": "https://www.gsmarena.com/vivo_y31d-14450.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y31d.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "Y500i",
+    "url": "https://www.gsmarena.com/vivo_y500i_5g-14407.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y500i.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "S50 Pro mini",
+    "url": "https://www.gsmarena.com/vivo_s50_pro_mini_5g-14356.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-s50-pro-mini.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "S50",
+    "url": "https://www.gsmarena.com/vivo_s50_5g-14353.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-s50.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "Y500 Pro",
+    "url": "https://www.gsmarena.com/vivo_y500_pro_5g_(china)-14278.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y500-pro.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "Y21d",
+    "url": "https://www.gsmarena.com/vivo_y21d-14508.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y21d.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "Y19s",
+    "url": "https://www.gsmarena.com/vivo_y19s_5g-14276.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y04.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "iQOO Neo11 (China)",
+    "url": "https://www.gsmarena.com/vivo_iqoo_neo11_5g_(china)-14268.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-neo11-cn.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "iQOO 15",
+    "url": "https://www.gsmarena.com/vivo_iqoo_15_5g-14198.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-15.jpg"
+  },
+  {
+    "brand": "vivo",
+    "model": "X300 Pro",
+    "url": "https://www.gsmarena.com/vivo_x300_pro_5g-14225.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-x300-pro.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "22",
+    "url": "https://www.gsmarena.com/meizu_22_5g-14150.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-22.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "Note 22 Pro",
+    "url": "https://www.gsmarena.com/meizu_note_22_pro_5g-13884.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-note16-pro.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "Note 22",
+    "url": "https://www.gsmarena.com/meizu_note_22_5g-13883.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-note16.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "Mblu 22 Pro",
+    "url": "https://www.gsmarena.com/meizu_mblu_22_pro-13700.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-mblu-22-pro.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "Mblu 22",
+    "url": "https://www.gsmarena.com/meizu_mblu_22-13699.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-mblu-22.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "Note 22 4G",
+    "url": "https://www.gsmarena.com/meizu_note_22-13698.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-note-22.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "Note 16",
+    "url": "https://www.gsmarena.com/meizu_note_16_5g-13862.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-note16.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "Note 16 Pro",
+    "url": "https://www.gsmarena.com/meizu_note_16_pro_5g-13861.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-note16-pro.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "mblu 21",
+    "url": "https://www.gsmarena.com/meizu_mblu_21-13530.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-mblu-21.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "Lucky 08",
+    "url": "https://www.gsmarena.com/meizu_lucky_08-13365.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-lucky-08.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "Note 21 Pro",
+    "url": "https://www.gsmarena.com/meizu_note_21_pro-13341.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-note-21-pro.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "Note 21",
+    "url": "https://www.gsmarena.com/meizu_note_21-13342.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-note-21.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "Blue 20",
+    "url": "https://www.gsmarena.com/meizu_blue_20-13212.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-blue-20.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "21 Note",
+    "url": "https://www.gsmarena.com/meizu_21_note-13007.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-21-note.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "21 Pro",
+    "url": "https://www.gsmarena.com/meizu_21_pro-12805.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-21-pro.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "21",
+    "url": "https://www.gsmarena.com/meizu_21-12719.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-21.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "20 Classic",
+    "url": "https://www.gsmarena.com/meizu_20_classic-12630.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-20classic.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "20 Infinity",
+    "url": "https://www.gsmarena.com/meizu_20_infinity-12207.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-20-infinity.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "20 Pro",
+    "url": "https://www.gsmarena.com/meizu_20_pro-12161.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-20-pro.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "20",
+    "url": "https://www.gsmarena.com/meizu_20-12206.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-20.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "18s Pro",
+    "url": "https://www.gsmarena.com/meizu_18s_pro-11075.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-18s-pro.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "18s",
+    "url": "https://www.gsmarena.com/meizu_18s-11115.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-18s.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "18x",
+    "url": "https://www.gsmarena.com/meizu_18x-11116.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-18x.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "Watch",
+    "url": "https://www.gsmarena.com/meizu_watch-10939.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-watch.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "18 Pro",
+    "url": "https://www.gsmarena.com/meizu_18_pro-10751.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-18-pro.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "18",
+    "url": "https://www.gsmarena.com/meizu_18-10766.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-18-.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "17 Pro",
+    "url": "https://www.gsmarena.com/meizu_17_pro-10232.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-m17-pro1.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "17",
+    "url": "https://www.gsmarena.com/meizu_17-10129.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-m17.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "16T",
+    "url": "https://www.gsmarena.com/meizu_16t-9926.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-16t.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "M10",
+    "url": "https://www.gsmarena.com/meizu_m10-9953.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-m10.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "16s Pro",
+    "url": "https://www.gsmarena.com/meizu_16s_pro-9792.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-16s-pro.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "16Xs",
+    "url": "https://www.gsmarena.com/meizu_16xs-9724.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-16xs.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "16s",
+    "url": "https://www.gsmarena.com/meizu_16s-9424.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-16s.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "Note 9",
+    "url": "https://www.gsmarena.com/meizu_note_9-9555.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-note-9.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "Zero",
+    "url": "https://www.gsmarena.com/meizu_zero-9528.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-zero-.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "C9 Pro",
+    "url": "https://www.gsmarena.com/meizu_c9_pro-9453.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-c9-pro.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "C9",
+    "url": "https://www.gsmarena.com/meizu_c9-9454.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-c9.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "Note 8",
+    "url": "https://www.gsmarena.com/meizu_note_8-9384.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-note-8-.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "X8",
+    "url": "https://www.gsmarena.com/meizu_x8-9341.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-x8.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "V8 Pro",
+    "url": "https://www.gsmarena.com/meizu_v8_pro-9338.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-v8-pro.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "V8",
+    "url": "https://www.gsmarena.com/meizu_v8-9339.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-v8.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "16X",
+    "url": "https://www.gsmarena.com/meizu_16x-9337.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-m16x-.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "16",
+    "url": "https://www.gsmarena.com/meizu_16-9280.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-16.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "16 Plus",
+    "url": "https://www.gsmarena.com/meizu_16_plus-9279.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-16-plus.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "M6T",
+    "url": "https://www.gsmarena.com/meizu_m6t-9213.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-m6t.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "M8c",
+    "url": "https://www.gsmarena.com/meizu_m8c-9210.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-m8c.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "15 Plus",
+    "url": "https://www.gsmarena.com/meizu_15_plus-9160.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-15-plus-.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "15",
+    "url": "https://www.gsmarena.com/meizu_15-9159.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-15.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "15 Lite",
+    "url": "https://www.gsmarena.com/meizu_15_lite-9158.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-m15.jpg"
+  },
+  {
+    "brand": "Meizu",
+    "model": "E3",
+    "url": "https://www.gsmarena.com/meizu_e3-9066.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/meizu-e3.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Note 23",
+    "url": "https://www.gsmarena.com/ulefone_note_23-14825.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note-23.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor Mini 5",
+    "url": "https://www.gsmarena.com/ulefone_armor_mini_5-14694.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-aromor-mini5.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Tab A12 Pro",
+    "url": "https://www.gsmarena.com/ulefone_tab_a12_pro-14695.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-tab-a12-pro.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Note 22",
+    "url": "https://www.gsmarena.com/ulefone_note_22-14685.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note-22.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "RugKing 5 Pro",
+    "url": "https://www.gsmarena.com/ulefone_rugking_5_pro-14544.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-rugking-5-pro.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor 27T Pro+",
+    "url": "https://www.gsmarena.com/ulefone_armor_27t_pro+_5g-14475.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor27t-plus.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor 27T+",
+    "url": "https://www.gsmarena.com/ulefone_armor_27t+-14476.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor27t-pro-plus.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "RugKing Pad Pro",
+    "url": "https://www.gsmarena.com/ulefone_rugking_pad_pro-14423.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-rugking-pad-pro.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "RugKing Pad 2 Pro",
+    "url": "https://www.gsmarena.com/ulefone_rugking_pad_2_pro-14424.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-rugking-pad2-pro.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor Watch Pro",
+    "url": "https://www.gsmarena.com/ulefone_armor_watch_pro-14422.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-watch-pro.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor 34 Pro+",
+    "url": "https://www.gsmarena.com/ulefone_armor_34_pro+_5g-14368.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor34-pro.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor 34+",
+    "url": "https://www.gsmarena.com/ulefone_armor_34+_5g-14367.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-34.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "RugKing 4 Pro",
+    "url": "https://www.gsmarena.com/ulefone_rugking_4_pro-14340.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-rugking-4pro.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "RugKing 3 Pro",
+    "url": "https://www.gsmarena.com/ulefone_rugking_3_pro-14339.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-rugking-3pro.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "RugKing 2 Pro",
+    "url": "https://www.gsmarena.com/ulefone_rugking_2_pro-14338.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-rugking-2pro.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor Pad 5 Ultra",
+    "url": "https://www.gsmarena.com/ulefone_armor_pad_5_ultra_5g-14269.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-pad-5-ultra.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor Pad 5 Pro",
+    "url": "https://www.gsmarena.com/ulefone_armor_pad_5_pro_5g-14270.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-pad-5-pro.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Tab A9 Pro",
+    "url": "https://www.gsmarena.com/ulefone_tab_a9_pro-14160.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-tab-a9-pro.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor 29 Pro Thermal",
+    "url": "https://www.gsmarena.com/ulefone_armor_29_pro_thermal_5g-14104.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-29-pro-thermal.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor 29 Pro",
+    "url": "https://www.gsmarena.com/ulefone_armor_29_pro_5g-14103.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-29-pro.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "RugKing",
+    "url": "https://www.gsmarena.com/ulefone_rugking-14102.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-rugking.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor 29 Ultra",
+    "url": "https://www.gsmarena.com/ulefone_armor_29_ultra_5g-14056.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-29-ultra.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor 34",
+    "url": "https://www.gsmarena.com/ulefone_armor_34_5g-14053.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-34.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor 33 Pro",
+    "url": "https://www.gsmarena.com/ulefone_armor_33_pro_5g-13692.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-33-pro.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor 33",
+    "url": "https://www.gsmarena.com/ulefone_armor_33-14055.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-33.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor 30",
+    "url": "https://www.gsmarena.com/ulefone_armor_30-13999.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-30.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor X16 Pro",
+    "url": "https://www.gsmarena.com/ulefone_armor_x16_pro_5g-14000.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x16-pro.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor X16",
+    "url": "https://www.gsmarena.com/ulefone_armor_x16-14001.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x16.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor 34 Pro",
+    "url": "https://www.gsmarena.com/ulefone_armor_34_pro-13691.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor34-pro.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor 28 Pro",
+    "url": "https://www.gsmarena.com/ulefone_armor_28_pro_5g-13864.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor28-pro.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor X32 Pro",
+    "url": "https://www.gsmarena.com/ulefone_armor_x32_pro_5g-13777.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x32-pro.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor X32",
+    "url": "https://www.gsmarena.com/ulefone_armor_x32_5g-13778.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x32.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Tab A10",
+    "url": "https://www.gsmarena.com/ulefone_tab_a10-14161.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-tab-a10.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor 30 Pro",
+    "url": "https://www.gsmarena.com/ulefone_armor_30_pro_5g-13776.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-30-pro.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor 28 Ultra Thermal",
+    "url": "https://www.gsmarena.com/ulefone_armor_28_ultra_thermal-13297.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-28-ultra.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor Mini 4",
+    "url": "https://www.gsmarena.com/ulefone_armor_mini_4-13693.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-mini4-.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor 28 Ultra",
+    "url": "https://www.gsmarena.com/ulefone_armor_28_ultra-13674.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor28-ultra.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor X31",
+    "url": "https://www.gsmarena.com/ulefone_armor_x31-13854.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x31.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor X31 Pro",
+    "url": "https://www.gsmarena.com/ulefone_armor_x31_pro-13589.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x31-pro-.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor 27T",
+    "url": "https://www.gsmarena.com/ulefone_armor_27t-13545.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor27t.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor 27",
+    "url": "https://www.gsmarena.com/ulefone_armor_27-13544.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor27.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Note 18 Pro",
+    "url": "https://www.gsmarena.com/ulefone_note_18_pro-13543.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note-18-pro.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Tab A10 Pro",
+    "url": "https://www.gsmarena.com/ulefone_tab_a10_pro-13542.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-tab-a10-pro.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Note 20 Pro",
+    "url": "https://www.gsmarena.com/ulefone_note_20_pro-13451.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note-20-pro.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Note 19",
+    "url": "https://www.gsmarena.com/ulefone_note_19-13450.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note-19.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor Pad 4 Ultra Thermal",
+    "url": "https://www.gsmarena.com/ulefone_armor_pad_4_ultra_thermal-13447.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-pad-4-ultra-thermal.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor Pad 4 Ultra",
+    "url": "https://www.gsmarena.com/ulefone_armor_pad_4_ultra-13446.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-pad-4-ultra.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor Mini 20",
+    "url": "https://www.gsmarena.com/ulefone_armor_mini_20-13541.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-mini20.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor Mini 20 Pro",
+    "url": "https://www.gsmarena.com/ulefone_armor_mini_20_pro-13445.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-mini-20-pro.jpg"
+  },
+  {
+    "brand": "Ulefone",
+    "model": "Armor Mini 20T Pro",
+    "url": "https://www.gsmarena.com/ulefone_armor_mini_20t_pro-13298.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-mini-20t-pro.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "A62",
+    "url": "https://www.gsmarena.com/alcatel_a62-14319.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-a62.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "V3 Ultra",
+    "url": "https://www.gsmarena.com/alcatel_v3_ultra_5g-13885.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-v3-ultra.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "V3 Pro",
+    "url": "https://www.gsmarena.com/alcatel_v3_pro_5g-13893.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-v3-pro.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "V3 Classic",
+    "url": "https://www.gsmarena.com/alcatel_v3_classic_5g-13894.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-v3-classic.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "3 (2025)",
+    "url": "https://www.gsmarena.com/alcatel_3_(2025)-13886.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-3-2025.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "1B (2022)",
+    "url": "https://www.gsmarena.com/alcatel_1b_(2022)-11706.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1b-2022.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "1L Pro (2021)",
+    "url": "https://www.gsmarena.com/alcatel_1l_pro_(2021)-10981.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1l-pro-2021.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "1 (2021)",
+    "url": "https://www.gsmarena.com/alcatel_1_(2021)-10980.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1-2021.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "3L (2021)",
+    "url": "https://www.gsmarena.com/alcatel_3l_(2021)-10679.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-a3l-2021.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "1S (2021)",
+    "url": "https://www.gsmarena.com/alcatel_1s_(2021)-10680.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1s-2021.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "1L (2021)",
+    "url": "https://www.gsmarena.com/alcatel_1l_(2021)-10682.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1l-2021.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "1V (2021)",
+    "url": "https://www.gsmarena.com/alcatel_1v_(2021)-11659.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1v-2021.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "1SE (2020)",
+    "url": "https://www.gsmarena.com/alcatel_1se_(2020)-10618.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1-se-2020.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "Go Flip 4",
+    "url": "https://www.gsmarena.com/alcatel_go_flip_4-12017.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-go-flip-4.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "Go Flip 3",
+    "url": "https://www.gsmarena.com/alcatel_go_flip_3-10500.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-go-flip3.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "Go Flip V",
+    "url": "https://www.gsmarena.com/alcatel_go_flip_v-10501.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-go-flipv.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "3T10 2020",
+    "url": "https://www.gsmarena.com/alcatel_3t10_2020-12041.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-3t10-2020.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "3X (2020)",
+    "url": "https://www.gsmarena.com/alcatel_3x_(2020)-10490.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-3x-2020.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "3L (2020)",
+    "url": "https://www.gsmarena.com/alcatel_3l_(2020)-10016.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-a3l-2020-.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "1S (2020)",
+    "url": "https://www.gsmarena.com/alcatel_1s_(2020)-10017.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-a3l-2020-.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "1V (2020)",
+    "url": "https://www.gsmarena.com/alcatel_1v_(2020)-10018.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-a3l-2020-.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "1B (2020)",
+    "url": "https://www.gsmarena.com/alcatel_1b_(2020)-10019.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1b-2020.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "3v (2019)",
+    "url": "https://www.gsmarena.com/alcatel_3v_(2019)-10042.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-3v-2019.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "3x (2019)",
+    "url": "https://www.gsmarena.com/alcatel_3x_(2019)-9842.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-3x-2019.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "1v (2019)",
+    "url": "https://www.gsmarena.com/alcatel_1v_(2019)-9843.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1v-2019.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "3T 8",
+    "url": "https://www.gsmarena.com/alcatel_3t_8-10108.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-3t-8.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "Smart Tab 7",
+    "url": "https://www.gsmarena.com/alcatel_smart_tab_7-9837.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-smart-tab-7-2019.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "3T 10",
+    "url": "https://www.gsmarena.com/alcatel_3t_10-9601.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-3t-10-2019.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "3L",
+    "url": "https://www.gsmarena.com/alcatel_3l-9600.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-3l.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "3 (2019)",
+    "url": "https://www.gsmarena.com/alcatel_3_(2019)-9599.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-3-2019.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "1s",
+    "url": "https://www.gsmarena.com/alcatel_1s-9598.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1s.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "1x (2019)",
+    "url": "https://www.gsmarena.com/alcatel_1x_(2019)-9510.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1x-2019.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "1c (2019)",
+    "url": "https://www.gsmarena.com/alcatel_1c_(2019)-9511.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1c-2019.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "1",
+    "url": "https://www.gsmarena.com/alcatel_1-9985.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1-2018.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "Tetra",
+    "url": "https://www.gsmarena.com/alcatel_tetra-9574.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-tetra.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "7",
+    "url": "https://www.gsmarena.com/alcatel_7-9291.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-7-.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "5v",
+    "url": "https://www.gsmarena.com/alcatel_5v-9271.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-5v.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "5",
+    "url": "https://www.gsmarena.com/alcatel_5-9012.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-5-.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "3v",
+    "url": "https://www.gsmarena.com/alcatel_3v-9004.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-3v.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "3x (2018)",
+    "url": "https://www.gsmarena.com/alcatel_3x_(2018)-9084.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-3x-.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "3",
+    "url": "https://www.gsmarena.com/alcatel_3-9085.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-3-.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "1x",
+    "url": "https://www.gsmarena.com/alcatel_1x-9086.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1x-.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "3c",
+    "url": "https://www.gsmarena.com/alcatel_3c-8989.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-3c-.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "3088",
+    "url": "https://www.gsmarena.com/alcatel_3088-9986.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-3088.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "1T 10",
+    "url": "https://www.gsmarena.com/alcatel_1t_10-9093.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1t-10.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "1T 7",
+    "url": "https://www.gsmarena.com/alcatel_1t_7-9094.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1t-7.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "Idol 5s",
+    "url": "https://www.gsmarena.com/alcatel_idol_5s-8844.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-idol-5s.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "Idol 5",
+    "url": "https://www.gsmarena.com/alcatel_idol_5-8832.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-idol-5.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "A7 XL",
+    "url": "https://www.gsmarena.com/alcatel_a7_xl-8843.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-a7-xl.jpg"
+  },
+  {
+    "brand": "Alcatel",
+    "model": "A7",
+    "url": "https://www.gsmarena.com/alcatel_a7-8830.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-a7.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "RedMagic Astra 2",
+    "url": "https://www.gsmarena.com/zte_redmagic_gaming_tablet_5_pro-14762.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-redmagic-astra2.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia Air Pro",
+    "url": "https://www.gsmarena.com/zte_nubia_air_pro_5g-14754.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-air-pro.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia RedMagic 11S Pro",
+    "url": "https://www.gsmarena.com/zte_nubia_redmagic_11s_pro_5g-14669.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-11s-pro.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia RedMagic 11S Pro+",
+    "url": "https://www.gsmarena.com/zte_nubia_redmagic_11s_pro+_5g-14671.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-11s-pro.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia RedMagic 11S Pro (China)",
+    "url": "https://www.gsmarena.com/zte_nubia_redmagic_11s_pro_5g_(china)-14670.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-11s-pro-cn.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia Neo 5 GT",
+    "url": "https://www.gsmarena.com/zte_nubia_neo_5_gt_5g-14524.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-neo-5-gt.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia Neo 5 Pro",
+    "url": "https://www.gsmarena.com/zte_nubia_neo_5_pro_5g-14594.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-neo-5-pro-.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia Neo 5",
+    "url": "https://www.gsmarena.com/zte_nubia_neo_5_5g-14595.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-neo-5-5g.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "Blade X1001",
+    "url": "https://www.gsmarena.com/zte_blade_x1001-14525.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-x1001.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "Blade V80 Max",
+    "url": "https://www.gsmarena.com/zte_blade_v80_max-14449.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-nubia-v80-max-new.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia RedMagic 11 Air",
+    "url": "https://www.gsmarena.com/zte_nubia_redmagic_11_air_5g-14430.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-redmagic-11-air.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "Pad",
+    "url": "https://www.gsmarena.com/zte_pad_5g_x1102n-14354.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-pad-5g-x1102n.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "Nubia Fold",
+    "url": "https://www.gsmarena.com/zte_nubia_fold_5g-14324.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-fold.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia Flip3",
+    "url": "https://www.gsmarena.com/zte_nubia_flip3_5g-14325.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nibia-flip3-.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "Blade V80 Pro",
+    "url": "https://www.gsmarena.com/zte_blade_v80_pro-14305.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-nubia-v80-pro.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "Blade V80 Design",
+    "url": "https://www.gsmarena.com/zte_blade_v80_design-14291.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-nubia-v80-design.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia RedMagic 11 Pro",
+    "url": "https://www.gsmarena.com/zte_nubia_redmagic_11_pro_5g_int-14277.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-11-pro-plus.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia Z80 Ultra",
+    "url": "https://www.gsmarena.com/zte_nubia_z80_ultra_5g-14247.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z80-ultra.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia RedMagic 11 Pro+",
+    "url": "https://www.gsmarena.com/zte_nubia_redmagic_11_pro+_5g-14238.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-11-pro-plus.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia RedMagic 11 Pro (China)",
+    "url": "https://www.gsmarena.com/zte_nubia_redmagic_11_pro_5g-14239.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-11-pro.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia Air",
+    "url": "https://www.gsmarena.com/zte_nubia_air_5g-14123.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-air.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "Blade A36",
+    "url": "https://www.gsmarena.com/zte_blade_a36-13966.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-a36.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "Blade A56",
+    "url": "https://www.gsmarena.com/zte_blade_a56-13948.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a56-.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "RedMagic Astra",
+    "url": "https://www.gsmarena.com/zte_redmagic_tablet_3_pro-13939.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-tablet-3-pro.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "Blade A76 4G",
+    "url": "https://www.gsmarena.com/zte_blade_a76-14290.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a76-4g.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "Blade A76",
+    "url": "https://www.gsmarena.com/zte_blade_a76_5g-13932.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a76.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia RedMagic 10SPro+",
+    "url": "https://www.gsmarena.com/zte_nubia_redmagic_10spro+_5g-13905.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-10s-pro-plus.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia RedMagic 10S Pro",
+    "url": "https://www.gsmarena.com/zte_nubia_redmagic_10spro_5g-13906.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-10s-pro.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia Z70S Ultra",
+    "url": "https://www.gsmarena.com/zte_nubia_z70s_ultra_5g-13819.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z70s-ultra-photographer-edition.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia Pad Pro",
+    "url": "https://www.gsmarena.com/zte_nubia_tablet_pro-13820.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-tablet-pro.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia RedMagic 10 Air",
+    "url": "https://www.gsmarena.com/zte_nubia_redmagic_10_air_5g-13797.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-redmagic-10-air.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia Focus 2 Ultra",
+    "url": "https://www.gsmarena.com/zte_nubia_focus_2_ultra-13708.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-focus2-ultra-5g.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia Focus 2",
+    "url": "https://www.gsmarena.com/zte_nubia_focus_2-13709.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-focus2-5g.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia Neo 3 GT",
+    "url": "https://www.gsmarena.com/zte_nubia_neo_3_gt-13710.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-neo-3-gt-5g.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia Neo 3",
+    "url": "https://www.gsmarena.com/zte_nubia_neo_3-13711.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-neo-3-5g.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia Flip2",
+    "url": "https://www.gsmarena.com/zte_nubia_flip2-13625.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-flip2-.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "Blade V70 Max",
+    "url": "https://www.gsmarena.com/zte_blade_v70_max-13654.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-v70-max.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia Music 2",
+    "url": "https://www.gsmarena.com/zte_nubia_music_2-13611.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-music2-.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "Blade V70 Design",
+    "url": "https://www.gsmarena.com/zte_blade_v70_design-13513.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-nubia-v70-design.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia Z70 Ultra",
+    "url": "https://www.gsmarena.com/zte_nubia_z70_ultra-13508.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z70-ultra.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "Blade V70",
+    "url": "https://www.gsmarena.com/zte_blade_v70-13501.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-v70.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia RedMagic 10 Pro+",
+    "url": "https://www.gsmarena.com/zte_nubia_red_magic_10_pro+-13495.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-10-pro-plus.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia RedMagic 10 Pro",
+    "url": "https://www.gsmarena.com/zte_nubia_red_magic_10_pro-13496.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-10-pro.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "Blade A55",
+    "url": "https://www.gsmarena.com/zte_blade_a55-13500.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a55.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "Blade A35",
+    "url": "https://www.gsmarena.com/zte_blade_a35-13468.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a35.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "Blade A75 4G",
+    "url": "https://www.gsmarena.com/zte_blade_a75_4g-13378.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a75-4g.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "Blade V60 Design",
+    "url": "https://www.gsmarena.com/zte_blade_v60_design-13377.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-v60-design.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "Blade A75",
+    "url": "https://www.gsmarena.com/zte_blade_a75-13376.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a75-5g.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia RedMagic Nova",
+    "url": "https://www.gsmarena.com/zte_nubia_red_magic_nova-13303.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-nova.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "nubia Z60S Pro",
+    "url": "https://www.gsmarena.com/zte_nubia_z60s_pro-13226.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-z60s-pro.jpg"
+  },
+  {
+    "brand": "RugOne",
+    "model": "Xever 8",
+    "url": "https://www.gsmarena.com/rugone_xever_8-14648.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/rugone-xever8.jpg"
+  },
+  {
+    "brand": "RugOne",
+    "model": "Xever 7 Pro",
+    "url": "https://www.gsmarena.com/rugone_xever_7_pro_5g-14386.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/rugone-xever-7-pro.jpg"
+  },
+  {
+    "brand": "RugOne",
+    "model": "Xever 7",
+    "url": "https://www.gsmarena.com/rugone_xever_7_5g-14387.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/rugone-xever7.jpg"
   }
 ]
