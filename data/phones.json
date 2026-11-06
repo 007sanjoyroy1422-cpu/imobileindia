@@ -2101,6 +2101,12 @@
   },
   {
     "brand": "Motorola",
+    "model": "Moto Watch 2 Fit",
+    "url": "https://www.gsmarena.com/motorola_moto_watch_2_fit-15067.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-watch-2-fit.jpg"
+  },
+  {
+    "brand": "Motorola",
     "model": "Moto G47 Power",
     "url": "https://www.gsmarena.com/motorola_moto_g47_power-15023.php",
     "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g47-power.jpg"
@@ -2109,7 +2115,7 @@
     "brand": "Motorola",
     "model": "Signature 27",
     "url": "https://www.gsmarena.com/motorola_signature_27_5g-14955.php",
-    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-signature-27.jpg"
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-signature-27-new.jpg"
   },
   {
     "brand": "Motorola",
@@ -2392,12 +2398,6 @@
     "model": "Moto G06",
     "url": "https://www.gsmarena.com/motorola_moto_g06-14115.php",
     "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g06.jpg"
-  },
-  {
-    "brand": "Motorola",
-    "model": "G96",
-    "url": "https://www.gsmarena.com/motorola_g96_5g-13989.php",
-    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-g96.jpg"
   },
   {
     "brand": "Lenovo",
@@ -3268,5 +3268,305 @@
     "model": "Pixel C",
     "url": "https://www.gsmarena.com/google_pixel_c-7826.php",
     "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-c--.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "600s",
+    "url": "https://www.gsmarena.com/honor_600s_5g-15047.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-600s-5g.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "X9e s",
+    "url": "https://www.gsmarena.com/honor_x9e_s_5g-15046.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x9es.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "X8e",
+    "url": "https://www.gsmarena.com/honor_x8e-15044.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x7e-plus-4g.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "Win Turbo2",
+    "url": "https://www.gsmarena.com/honor_win_turbo2_5g-15019.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-win-turbo2.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "Win2",
+    "url": "https://www.gsmarena.com/honor_win2_5g-15020.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-win2.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "Win2 RT",
+    "url": "https://www.gsmarena.com/honor_win2_rt_5g-15021.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-win2-rt.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "Win Tablet",
+    "url": "https://www.gsmarena.com/honor_win_tablet-15027.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-win-tablet.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "Magic9 Pro Max",
+    "url": "https://www.gsmarena.com/honor_magic9_pro_max_5g-14940.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic9-pro-max.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "Magic9 Super",
+    "url": "https://www.gsmarena.com/honor_magic9_super_5g-14969.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic9-super.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "Magic9",
+    "url": "https://www.gsmarena.com/honor_magic9_5g-14970.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic9.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "Watch 6 Pro",
+    "url": "https://www.gsmarena.com/honor_watch_6_pro-14971.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-watch6-pro.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "Play20C",
+    "url": "https://www.gsmarena.com/honor_play20c-14994.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x5d-s.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "X5d s",
+    "url": "https://www.gsmarena.com/honor_x5d_s-14993.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x5d-s.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "Pad X10 Pro Max",
+    "url": "https://www.gsmarena.com/honor_pad_x10_pro_max-14972.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-pad-x10-pro-max.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "MagicPad 4 12.1",
+    "url": "https://www.gsmarena.com/honor_magicpad_4_12_1-14973.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magicpad-4-cn.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "X9e Pro",
+    "url": "https://www.gsmarena.com/honor_x9e_pro_5g-14949.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x9e-pro.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "Play11",
+    "url": "https://www.gsmarena.com/honor_play11_5g-14944.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play11.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "Play20A",
+    "url": "https://www.gsmarena.com/honor_play20a-14897.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play-20a.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "X7e Plus 4G",
+    "url": "https://www.gsmarena.com/honor_x7e_plus-14896.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x7e-plus-4g.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "Turbo",
+    "url": "https://www.gsmarena.com/honor_turbo_5g-14881.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x9es.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "Robot Phone",
+    "url": "https://www.gsmarena.com/honor_robot_phone_5g-14827.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-robot-phone.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "Pad 20 Pro",
+    "url": "https://www.gsmarena.com/honor_pad_20_pro-14889.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-pad20-pro.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "X6e",
+    "url": "https://www.gsmarena.com/honor_x6e-14843.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x6e-.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "X7e Plus",
+    "url": "https://www.gsmarena.com/honor_x7e_plus_5g-14834.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x7e-plus.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "Watch 6 Plus",
+    "url": "https://www.gsmarena.com/honor_watch_6_plus-14817.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-watch-6-plus.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "X80 Pro Max",
+    "url": "https://www.gsmarena.com/honor_x80_pro_max_5g-14718.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x80-pro-max.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "600 Smart",
+    "url": "https://www.gsmarena.com/honor_600_smart_5g-14738.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-600-smart-5g.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "Watch 6",
+    "url": "https://www.gsmarena.com/honor_watch_6-14737.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-watch-6.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "X70 Pro Max",
+    "url": "https://www.gsmarena.com/honor_x70_pro_max_5g-14729.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x70-pro-max.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "Play10",
+    "url": "https://www.gsmarena.com/honor_play10_5g-14713.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play10-5g.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "Win Turbo",
+    "url": "https://www.gsmarena.com/honor_win_turbo_5g-14684.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-win-turbo-.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "600 Pro (China)",
+    "url": "https://www.gsmarena.com/honor_600_pro_5g_(china)-14680.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-600-pro-cn.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "600 (China)",
+    "url": "https://www.gsmarena.com/honor_600_5g_(china)-14681.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-600-cn.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "600e",
+    "url": "https://www.gsmarena.com/honor_600e_5g-14688.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-600e.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "X7e",
+    "url": "https://www.gsmarena.com/honor_x7e-14677.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x7e-.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "500 Smart",
+    "url": "https://www.gsmarena.com/honor_500_smart_5g-14689.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play-60a.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "600 Pro",
+    "url": "https://www.gsmarena.com/honor_600_pro_5g-14604.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-600-pro.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "600",
+    "url": "https://www.gsmarena.com/honor_600_5g-14605.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-600.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "Pad 20",
+    "url": "https://www.gsmarena.com/honor_pad_20-14663.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-pad20.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "MagicPad 3 Pro 12.3",
+    "url": "https://www.gsmarena.com/honor_magicpad_3_pro_12_3-14629.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magicpad-3-pro-123.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "Play11 Plus",
+    "url": "https://www.gsmarena.com/honor_play11_plus_5g-14662.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play11-plus.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "X70 Refresh",
+    "url": "https://www.gsmarena.com/honor_x70_refresh_edition_5g-14589.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x70-refresh.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "X5d Plus",
+    "url": "https://www.gsmarena.com/honor_x5d_plus-14584.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x5d-plus.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "X5d",
+    "url": "https://www.gsmarena.com/honor_x5d-14583.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x5d.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "X80i",
+    "url": "https://www.gsmarena.com/honor_x80i_5g-14579.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x80i.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "Play 80 Pro",
+    "url": "https://www.gsmarena.com/honor_play_80_pro_5g-14577.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play80-play.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "Play 80 Plus",
+    "url": "https://www.gsmarena.com/honor_play_80_plus_5g-14650.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play-80-plus-.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "Play 70C",
+    "url": "https://www.gsmarena.com/honor_play_70c-14653.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play-70c.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "Play 80",
+    "url": "https://www.gsmarena.com/honor_play_80_5g-14578.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play-80-play.jpg"
+  },
+  {
+    "brand": "Honor",
+    "model": "Watch X5i",
+    "url": "https://www.gsmarena.com/honor_watch_x5i-14580.php",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-watch-x5i.jpg"
   }
 ]
